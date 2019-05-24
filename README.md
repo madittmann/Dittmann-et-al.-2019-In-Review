@@ -1,5 +1,5 @@
-#Data and script repository for generating figures 3 and 9 in publication.
-#Article is "Gene Expression Changes in Response to Field-to-Lab Transition in the Argentine Ant, Linepithema humile.", currently being considered for publication in Insect Physiology.
+Data and script repository for generating figures 3 and 9 in publication.
+Article is "Gene Expression Changes in Response to Field-to-Lab Transition in the Argentine Ant, Linepithema humile.", currently being considered for publication in Insect Physiology.
 
 Figure 3:
 "Dittmann et al. 2019 - Scatterplot Code" is R script used to generate scatterplot. These datasheets are used in script to generate plot:
